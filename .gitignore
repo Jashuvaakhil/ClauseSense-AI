@@ -34,3 +34,4 @@ Thumbs.db
 
 # Large/Temporary Files
 *.pdf
+!Linkhome holding agreement.pdf
